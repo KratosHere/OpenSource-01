@@ -8,6 +8,21 @@ body {
     justify-content: center;
 }
 
+
+button {
+
+    background-color: rgb(17, 18, 21);
+    color: red;
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.counterDisplay {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+
+ 
 .ProjectLink a {
     font-size: 50px;
     color: aliceblue;
