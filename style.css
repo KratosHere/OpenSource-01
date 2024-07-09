@@ -2,3 +2,22 @@ body {
     background-color: rgb(26, 34, 59);
     color: azure;
 }
+
+.counter-button-div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+
+    background-color: rgb(17, 18, 21);
+    color: red;
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.counterDisplay {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
