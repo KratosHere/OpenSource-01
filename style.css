@@ -2,3 +2,26 @@ body {
     background-color: rgb(26, 34, 59);
     color: azure;
 }
+
+.ProjectLink {
+    display: flex;
+    justify-content: center;
+}
+
+.ProjectLink a {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+#ProjectPara {
+
+    font-size: larger;
+    margin-right: 10px;
+
+}
+
+.ProjectLink i:hover {
+
+    text-shadow: 0px 5px 20px grey;
+
+}
